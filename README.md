@@ -11,8 +11,8 @@
 - 📚 Learning React, Node.js, and full-stack development.  
 
 ## 🛠️ Skills  
-- Languages: HTML, CSS, JavaScript, Python  
-- Frameworks: React, Node.js  
+- Languages: HTML, CSS, JavaScript, Python,java
+- Frameworks: React, Node.js, tailwind css
 - Tools: Git, VSCode, Vite  
 
 ## 📈 GitHub Stats  
