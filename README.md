@@ -1,4 +1,4 @@
-# Hi, I'm Manasvi 👋  
+# Hi, I'm Manasvi 👋 
 ## 💻 Frontend Developer | 🌱 Engineering Student  
 - 🔭 Currently working on full-stack projects.  
 - 🌟 Interested in building creative and user-friendly interfaces.  
